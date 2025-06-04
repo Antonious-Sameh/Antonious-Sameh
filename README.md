@@ -4,28 +4,23 @@
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding" width="40%" />
   <br />
 
-  <h1>Hi there 👋, I'm <strong>Antonius Sameh</strong> aka <strong>AntonyxDev</strong></h1>
+  <h1>Hi there 👋, I'm <strong>Antonious Sameh</strong> aka <strong>AntonyxDev</strong></h1>
   <h3>MERN Stack Developer | Passionate about building full-stack web apps</h3>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=AntonyxDev&style=flat&color=orange&label=PROFILE+VIEWS" />
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AntonyxDev&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false" />
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=Antonious-Sameh&style=flat&color=orange&label=PROFILE+VIEWS" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Antonious-Sameh&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false" />
+</p>
 
-  <p>
-    <a href="https://t.me/antonyxdev">
-      <img src="https://img.shields.io/badge/Telegram-%40antonyxdev-blue?style=flat&logo=telegram" />
-    </a>
-  </p>
+<p>
+  <a href="https://www.facebook.com/Antonious.Sameh.Ayad">
+    <img src="https://img.shields.io/badge/Facebook-Antonious.Sameh.Ayad-blue?style=flat&logo=facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/antonioussameh">
+    <img src="https://img.shields.io/badge/LinkedIn-antonioussameh-blue?style=flat&logo=linkedin" />
+  </a>
+</p>
 
-  <details>
-    <summary>🎧 Currently Vibing To</summary>
-    <p>
-      <a href="https://open.spotify.com/user/your_spotify_id">
-        <img src="https://spotify-readme.vercel.app/api/spotify" alt="Spotify Playing" />
-      </a>
-    </p>
-  </details>
 </div>
 
 ---
