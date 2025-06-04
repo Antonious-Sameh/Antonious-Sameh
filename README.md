@@ -1,25 +1,24 @@
-<div align="center" width="100%">
+<div align="center">
   <br />
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding" width="40%" />
-  <br />
+  <br /><br />
 
   <h1>Hi there 👋, I'm <strong>Antonious Sameh</strong> aka <strong>AntonyxDev</strong></h1>
   <h3>MERN Stack Developer | Passionate about building full-stack web apps</h3>
 
   <p>
-  <img src="https://komarev.com/ghpvc/?username=Antonious-Sameh&style=flat&color=orange&label=PROFILE+VIEWS" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Antonious-Sameh&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false" />
-</p>
+    <img src="https://komarev.com/ghpvc/?username=Antonious-Sameh&style=flat&color=orange&label=PROFILE+VIEWS" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Antonious-Sameh&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false" />
+  </p>
 
-<p>
-  <a href="https://www.facebook.com/Antonious.Sameh.Ayad">
-    <img src="https://img.shields.io/badge/Facebook-Antonious.Sameh.Ayad-blue?style=flat&logo=facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/antonioussameh">
-    <img src="https://img.shields.io/badge/LinkedIn-antonioussameh-blue?style=flat&logo=linkedin" />
-  </a>
-</p>
-
+  <p>
+    <a href="https://www.facebook.com/Antonious.Sameh.Ayad" title="Facebook Profile">
+      <img src="https://img.shields.io/badge/Facebook-Antonious.Sameh.Ayad-blue?style=flat&logo=facebook" />
+    </a>
+    <a href="https://www.linkedin.com/in/antonioussameh" title="LinkedIn Profile">
+      <img src="https://img.shields.io/badge/LinkedIn-antonioussameh-blue?style=flat&logo=linkedin" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -44,12 +43,14 @@
 
 ### 📂 Projects
 
-- 🛍️ **E-Commerce Web App** - Built with MERN Stack
-- 📝 **Blog Platform** - Full-stack blog app using MongoDB, Express, React & Node.js
-- 💼 **Portfolio Website** - Responsive personal website built using HTML/CSS
-- 📄 **CV Template** - Clean & printable CV page
-- 🛍️ **Landing Pages | HTML & CSS** - Responsive landing pages.
-- 🧠 **CRUD Operation App | JavaScript** - System with full CRUD functionality. 
+- 🛍️ **[E-Commerce Web App](#)** - Built with MERN Stack  
+- 📝 **[Blog Platform](#)** - Full-stack blog app using MongoDB, Express, React & Node.js  
+- 💼 **[Portfolio Website](#)** - Responsive personal website built using HTML/CSS  
+- 📄 **[CV Template](#)** - Clean & printable CV page  
+- 🛍️ **[Landing Pages | HTML & CSS](#)** - Responsive landing pages  
+- 🧠 **[CRUD Operation App | JavaScript](#)** - System with full CRUD functionality  
+
+*(لو عندك روابط المشاريع الحقيقية ابعتها لي وأنا أحطها بدل الـ #)*
 
 ---
 
@@ -63,8 +64,8 @@
 
 ### ⚡ Fun Facts
 
-- 💻 I love building side projects alone & learning new web tech.
-- 🧠 Always improving my **problem-solving** & **communication** skills.
+- 💻 I love building side projects alone & learning new web tech.  
+- 🧠 Always improving my **problem-solving** & **communication** skills.  
 - 🎬 Fan of movies, music & chill development sessions.
 
 ---
@@ -77,6 +78,5 @@
 </div>
 
 ---
-
 
 > 🧩 Designed & maintained by **AntonyxDev**
