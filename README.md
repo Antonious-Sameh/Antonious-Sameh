@@ -1,5 +1,4 @@
 <div align="center" width="100%">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" />
   <br />
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding" width="40%" />
   <br />
@@ -49,6 +48,8 @@
 - 📝 **Blog Platform** - Full-stack blog app using MongoDB, Express, React & Node.js
 - 💼 **Portfolio Website** - Responsive personal website built using HTML/CSS
 - 📄 **CV Template** - Clean & printable CV page
+- 🛍️ **Landing Pages | HTML & CSS** - Responsive landing pages.
+- 🧠 **CRUD Operation App | JavaScript** - System with full CRUD functionality. 
 
 ---
 
@@ -57,7 +58,6 @@
 - Advanced React Patterns  
 - Git & GitHub Workflow  
 - Deployment (Vercel, Netlify, Heroku)  
-- CI/CD basics and testing tools  
 
 ---
 
@@ -78,14 +78,5 @@
 
 ---
 
-### 🔁 Code Cycle
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" />
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" />
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" width="10%" />
-
----
 
 > 🧩 Designed & maintained by **AntonyxDev**
