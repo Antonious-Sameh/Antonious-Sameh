@@ -50,7 +50,7 @@
 - 🛍️ **[Landing Pages | HTML & CSS](#)** - Responsive landing pages  
 - 🧠 **[CRUD Operation App | JavaScript](#)** - System with full CRUD functionality  
 
-*(لو عندك روابط المشاريع الحقيقية ابعتها لي وأنا أحطها بدل الـ #)*
+
 
 ---
 
