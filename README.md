@@ -1,82 +1,116 @@
-<div align="center">
-  <br />
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding" width="40%" />
-  <br /><br />
+<!-- 🎯 Typing Banner -->
+![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F57C00&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+AntonyxDev+👋;MERN+Stack+Web+Developer+🚀;Always+building+cool+stuff!+💻)
 
-  <h1>Hi there 👋, I'm <strong>Antonious Sameh</strong> aka <strong>AntonyxDev</strong></h1>
-  <h3>MERN Stack Developer | Passionate about building full-stack web apps</h3>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Antonious-Sameh&style=flat&color=orange&label=PROFILE+VIEWS" />
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Antonious-Sameh&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false" />
-  </p>
 
-  <p>
-    <a href="https://www.facebook.com/Antonious.Sameh.Ayad" title="Facebook Profile">
-      <img src="https://img.shields.io/badge/Facebook-Antonious.Sameh.Ayad-blue?style=flat&logo=facebook" />
-    </a>
-    <a href="https://www.linkedin.com/in/antonioussameh" title="LinkedIn Profile">
-      <img src="https://img.shields.io/badge/LinkedIn-antonioussameh-blue?style=flat&logo=linkedin" />
-    </a>
-  </p>
-</div>
+<!-- 👨‍💻 GIF Image -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" alt="Coding GIF" />
+</p>
 
----
+<!-- 🔥 Name and Title -->
+<h1 align="center">Hi, I'm <span style="color:#f57c00"><strong>Antonious Sameh</strong></span> (aka <strong>AntonyxDev</strong>)</h1>
+<h3 align="center">🚀 MERN Stack Developer | Passionate about turning ideas into reality</h3>
 
-### 🚀 Tech Stack I Use:
-
-![MERN](https://img.shields.io/badge/-MERN-3C873A?style=flat&logo=mongodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
-![Git](https://img.shields.io/badge/-Git-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VScode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<!-- 🌐 Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/antonioussameh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-AntoniousSameh-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.facebook.com/Antonious.Sameh.Ayad" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Antonious.Sameh.Ayad-blue?style=for-the-badge&logo=facebook" />
+  </a>
+</p>
 
 ---
 
-### 📂 Projects
+## 🔧 Tech Toolbox
 
-- 🛍️ **[E-Commerce Web App](#)** - Built with MERN Stack  
-- 📝 **[Blog Platform](#)** - Full-stack blog app using MongoDB, Express, React & Node.js  
-- 💼 **[Portfolio Website](#)** - Responsive personal website built using HTML/CSS  
-- 📄 **[CV Template](#)** - Clean & printable CV page  
-- 🛍️ **[Landing Pages | HTML & CSS](#)** - Responsive landing pages  
-- 🧠 **[CRUD Operation App | JavaScript](#)** - System with full CRUD functionality  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,postman,vscode" />
+</p>
 
+---
+
+## 🧠 What I Know
+
+- 🟢 Building full-stack apps with **MongoDB, Express, React, Node.js**
+- 🎨 Crafting beautiful UIs with **HTML, CSS, Bootstrap**
+- 🔧 Using **Git & GitHub** for version control
+- 🚀 Deploying with **Vercel** / **Netlify** / **GitHub Pages** / **Render**
+
+---
+
+## 🛠️ Featured Projects
+
+<table>
+  <thead>
+    <tr>
+      <th>📌 Project</th>
+      <th>📝 Description</th>
+      <th>🛠️ Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://ecommerce-project-demo.com" target="_blank"><strong>🛒 E-Commerce App</strong></a></td>
+      <td>Full MERN stack shopping experience with cart, auth & dashboard</td>
+      <td>MERN (MongoDB, Express, React, Node.js)</td>
+    </tr>
+    <tr>
+      <td><a href="https://blog-platform-demo.com" target="_blank"><strong>✍️ Blog Platform</strong></a></td>
+      <td>Blog app with post CRUD operations, login & rich text editor</td>
+      <td>MERN</td>
+    </tr>
+    <tr>
+      <td><a href="https://portfolio-demo.com" target="_blank"><strong>💼 Portfolio Website</strong></a></td>
+      <td>Personal portfolio site showcasing projects and skills</td>
+      <td>HTML, CSS, Animations</td>
+    </tr>
+    <tr>
+      <td><a href="https://cv-template-demo.com" target="_blank"><strong>📄 CV Page</strong></a></td>
+      <td>Simple, printable resume template for developers</td>
+      <td>HTML, CSS</td>
+    </tr>
+    <tr>
+      <td><a href="https://landing-pages-demo.com" target="_blank"><strong>📱 Landing Pages</strong></a></td>
+      <td>Responsive static pages for different business ideas</td>
+      <td>HTML, CSS</td>
+    </tr>
+    <tr>
+      <td><a href="https://crud-app-demo.com" target="_blank"><strong>🧠 CRUD App</strong></a></td>
+      <td>Pure JavaScript app to manage tasks or notes (CRUD)</td>
+      <td>JavaScript (Vanilla)</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ---
 
-### 🧠 Currently Learning
+## 📈 GitHub Stats
 
-- Advanced React Patterns  
-- Git & GitHub Workflow  
-- Deployment (Vercel, Netlify, Heroku)  
-
----
-
-### ⚡ Fun Facts
-
-- 💻 I love building side projects alone & learning new web tech.  
-- 🧠 Always improving my **problem-solving** & **communication** skills.  
-- 🎬 Fan of movies, music & chill development sessions.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Antonious-Sameh&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonious-Sameh&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 🎯 Currently Learning
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antonious-Sameh&show_icons=true&theme=react&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonious-Sameh&layout=compact&theme=react&hide_border=true" width="45%" />
-</div>
+- ⚛️ Advanced React (Hooks, Patterns, Performance)
+- 🧰 GitHub CLI & Workflow Automation
+- ☁️ Vercel, Netlify, Render (Deployment)
 
 ---
 
-> 🧩 Designed & maintained by **AntonyxDev**
+## 🎬 Fun Facts
+
+- 🎧 Coding with music = more creativity!
+- 💡 Constantly building side projects for practice
+- 🧩 I believe in "learning by doing"
+
+---
+
+> ✨ Designed with ❤️ by [**AntonyxDev**](https://github.com/Antonious-Sameh)
