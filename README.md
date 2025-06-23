@@ -58,6 +58,11 @@
       <td>MERN (MongoDB, Express, React, Node.js)</td>
     </tr>
     <tr>
+      <td><a href="https://antonious-sameh.github.io/E-commerce_html_css_js/" target="_blank"><strong>👗 E-commerce_html_css_js </strong></a></td>
+      <td>A modern and responsive e-commerce website for stylish clothing lovers</td>
+      <td>HTML , CSS , Javascript</td>
+    </tr>
+    <tr>
       <td><a href="https://blog-platform-demo.com" target="_blank"><strong>✍️ Blog Platform</strong></a></td>
       <td>Blog app with post CRUD operations, login & rich text editor</td>
       <td>MERN</td>
@@ -68,19 +73,29 @@
       <td>HTML, CSS, Animations</td>
     </tr>
     <tr>
+      <td><a href="https://antonious-sameh.github.io/simple-quiz-app/" target="_blank"><strong>🧠 Simple Quiz App</strong></a></td>
+      <td>Displays multiple-choice questions, calculates the score, and displays it to the user.</td>
+      <td>HTML, CSS, Javascript</td>
+    </tr>
+    <tr>
+      <td><a href="https://todo-list-six-steel.vercel.app/" target="_blank"><strong>🛒 Todo_List </strong></a></td>
+      <td>A simple and modern To-Do List built</td>
+      <td>React.js , CSS</td>
+    </tr>
+    <tr>
       <td><a href="https://cv-template-demo.com" target="_blank"><strong>📄 CV Page</strong></a></td>
       <td>Simple, printable resume template for developers</td>
       <td>HTML, CSS</td>
     </tr>
     <tr>
-      <td><a href="https://landing-pages-demo.com" target="_blank"><strong>📱 Landing Pages</strong></a></td>
+      <td><a href=" https://antonious-sameh.github.io/Landing_Page/" target="_blank"><strong>📱 Landing Pages</strong></a></td>
       <td>Responsive static pages for different business ideas</td>
-      <td>HTML, CSS</td>
+      <td>HTML, CSS, javascript</td>
     </tr>
     <tr>
-      <td><a href="https://crud-app-demo.com" target="_blank"><strong>🧠 CRUD App</strong></a></td>
+      <td><a href="https://antonious-sameh.github.io/crud-product-management-app/" target="_blank"><strong>🧠 CRUD App</strong></a></td>
       <td>Pure JavaScript app to manage tasks or notes (CRUD)</td>
-      <td>JavaScript (Vanilla)</td>
+      <td>JavaScript</td>
     </tr>
   </tbody>
 </table>
