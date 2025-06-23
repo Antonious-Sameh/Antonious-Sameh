@@ -88,7 +88,7 @@
       <td>HTML, CSS</td>
     </tr>
     <tr>
-      <td><a href=" https://antonious-sameh.github.io/Landing_Page/" target="_blank"><strong>📱 Landing Pages</strong></a></td>
+      <td><a href="https://antonious-sameh.github.io/Landing_Page/" target="_blank"><strong>📱 Landing Pages</strong></a></td>
       <td>Responsive static pages for different business ideas</td>
       <td>HTML, CSS, javascript</td>
     </tr>
