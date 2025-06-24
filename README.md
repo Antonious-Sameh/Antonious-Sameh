@@ -1,5 +1,5 @@
 <!-- 🎯 Typing Banner -->
-![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F57C00&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+AntonyxDev+👋;MERN+Stack+Web+Developer+🚀;Always+building+cool+stuff!+💻)
+![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F57C00&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+AntonyxDev+👋;MERN+Stack+Web+Developer+🚀;Always+building+cool+stuff!+💻)
 
 
 
